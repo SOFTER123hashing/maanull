@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="maanull — designer and developer">
+  <title>maanull — designer &amp; developer</title>
+
+  <rect width="1280" height="340" fill="#EEEAE2"/>
+
+  <!-- hairlines -->
+  <line x1="56" y1="74" x2="1224" y2="74" stroke="#14130F" stroke-opacity="0.18"/>
+  <line x1="56" y1="292" x2="1224" y2="292" stroke="#14130F" stroke-opacity="0.18"/>
+
+  <!-- top labels -->
+  <text x="56" y="54" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="15" letter-spacing="4" fill="#8A8578">INDEX — 2026</text>
+  <text x="1224" y="54" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="15" letter-spacing="4" fill="#C93A12">OPEN FOR WORK</text>
+
+  <!-- wordmark -->
+  <text x="52" y="252" font-family="'Inter Tight','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="200" font-weight="700" letter-spacing="-10" fill="#14130F" textLength="900" lengthAdjust="spacing">maanull</text>
+
+  <!-- accent mark -->
+  <rect x="980" y="104" width="14" height="14" fill="#C93A12"/>
+
+  <!-- bottom labels -->
+  <text x="56" y="326" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="15" letter-spacing="4" fill="#4C483F">INTERFACES · TOOLING · PATCHING</text>
+  <text x="1224" y="326" text-anchor="end" font-family="'JetBrains Mono',ui-monospace,Consolas,monospace" font-size="15" letter-spacing="4" fill="#8A8578">GMT+3 · REMOTE</text>
+</svg>
